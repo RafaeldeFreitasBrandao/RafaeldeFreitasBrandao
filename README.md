@@ -1,3 +1,3 @@
 ### Ferramentas e Tecnologias que uso ###
 
-![JavaScript](downloads/javascript.sgv)
+![JavaScript](downloads/javascript.svg)
