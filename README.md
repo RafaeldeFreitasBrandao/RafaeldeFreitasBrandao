@@ -1,3 +1,3 @@
 ### Ferramentas e Tecnologias que uso ###
 
-![Legenda do GIF](downloads/java_gif.gif)
+![Legenda do GIF](C:\Users\rafae\downloads\java_gif.gif)
