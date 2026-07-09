@@ -1,8 +1,8 @@
 ## Olá! eu sou o Rafael de Freitas Brandão 👋
 
-Sou estudante de **Ciência da Computação na PUC-PR** (4° período), em Curitiba.
-Atualmente me dedico ao desenvolvimento back-end e banco de dados, mas já desenvolvi projetos fullstack e de sistemas embarcados.
-
+Sou estudante de **Ciência da Computação na PUC-PR** (4º período), em Curitiba.
+Atualmente me dedico ao desenvolvimento back-end e banco de dados. Desenvolvi em equipe um sistema de gestão de clínica em Node.js e MySQL, e um projeto de sistemas embarcados com ESP32 em MicroPython, publicando leituras de sensores via MQTT.
+Em busca da primeira oportunidade de estágio em desenvolvimento de software.
 ### Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
