@@ -20,5 +20,5 @@ Em busca da primeira oportunidade de estágio em desenvolvimento de software.
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-de-freitas-brandão-5639a2358)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-freitas-brand%C3%A3o-5639a2358/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](rafael.f.brandao@icloud.com)
