@@ -14,9 +14,9 @@ Em busca da primeira oportunidade de estágio em desenvolvimento de software.
 
 ### Projetos em Destaque
 
-- **[Sistema de Clínica](link)** — aplicação full-stack (Node.js + MySQL) para gestão de consultas, desenvolvida em equipe.
-- **[ESP32 + MQTT](link)** — monitoramento de sensores em MicroPython com publicação em broker MQTT.
-- **[Jet Motors](link)** — landing page responsiva, foco em design e CSS.
+- **[Sistema de Clínica](https://github.com/RafaeldeFreitasBrandao/sistema-clinica-fullstack)** — aplicação full-stack (Node.js + MySQL) para gestão de consultas, desenvolvida em equipe.
+- **[ESP32 + MQTT](https://github.com/RafaeldeFreitasBrandao/esp32-multiplos-sensores-mqtt)** — monitoramento de sensores em MicroPython com publicação em broker MQTT.
+- **[Jet Motors](https://github.com/RafaeldeFreitasBrandao/jet-motors-landing-page)** — landing page responsiva, foco em design e CSS.
 
 ### Contato
 
